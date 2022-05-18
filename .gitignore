@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.csv
+*.pyc
+v3/
+.DS_Store
+extras/
